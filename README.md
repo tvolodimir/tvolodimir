@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a software engineer and my leading directions are all areas of JavaScript, Typescript, Node.js, Web Development, and Game Development. More details you can find [here](https://tvolodimir.github.io)
 
 <!--
 **tvolodimir/tvolodimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### &#x1f4c8; GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvolodimir&hide=c%23&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tvolodimir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+
+
+

@@ -1,5 +1,4 @@
 ### Hi there 👋
-I am a software engineer and my leading directions are all areas of JavaScript, Typescript, Node.js, Web Development, and Game Development. More details you can find [here](https://tvolodimir.github.io)
 
 <!--
 **tvolodimir/tvolodimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
